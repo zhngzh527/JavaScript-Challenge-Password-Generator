@@ -11,5 +11,5 @@ I have using this technologies to creat the web application:
 -JaveScript methods
 
 ## Application Screenshot
-![alt text](Develop/Images/Screenshot1.png)
-![alt text](Develop/Images/Screenshot2.png)
+![alt text](Images/Screenshot1.png)
+![alt text](Images/Screenshot2.png)
